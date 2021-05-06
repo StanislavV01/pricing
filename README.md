@@ -3,10 +3,10 @@ interactive pricing
   * HTML
 
 
-   *CSS
+   *  CSS
    
    
-   *JS
+   *  JS
  
  
  ---
