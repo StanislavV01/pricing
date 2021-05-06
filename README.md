@@ -1,8 +1,8 @@
 # pricing
 interactive pricing
- ..* HTML
- ..*CSS
- ..*JS
+⋅⋅* HTML
+ ⋅⋅*CSS
+ ⋅⋅*JS
  
  
  ---
