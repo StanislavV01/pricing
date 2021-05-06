@@ -11,4 +11,4 @@ interactive pricing
  
  ---
  
- [Gh-pages]()
+ [Gh-pages](https://stanislavv01.github.io/pricing/)
